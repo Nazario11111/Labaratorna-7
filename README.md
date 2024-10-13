@@ -1,1 +1,1 @@
-# Labaratorna-7
+# Laba-7
